@@ -1,0 +1,23 @@
+body{
+    font-family: 12px Tahoma, Arial, Helvetica, sans-serif;
+    background-color: rgb(9, 9, 124)!important;
+}
+.card {
+    width: 300px;
+  }
+  .card-header {   
+    background-color: rgb(217, 217, 234)!important;
+    font-weight: bolder;
+    text-align: center;
+  }
+  .card-body {
+      background-color: rgb(222, 235, 238)!important;
+    text-align: left;
+    font-weight: bold;
+  }
+  .card-img-top {
+      background-color: rgb(236, 240, 214)!important;
+    width: 300px;
+    height: 200px;
+    padding: 25px;
+  }
